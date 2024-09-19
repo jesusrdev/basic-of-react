@@ -1,10 +1,12 @@
 import './App.css'
-import Counter from './Counter'
+// import Counter from './Counter'
+import MyForm from './MyForm'
 
 function App() {
   return (
     <>
-      <Counter />
+      {/* <Counter /> */}
+      <MyForm />
     </>
   )
 }
